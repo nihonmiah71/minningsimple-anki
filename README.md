@@ -288,6 +288,11 @@ Once you filter out the most important notes, you will notice that **two cards e
 ### Individual Grammar Cards
 *Created using a grammar web add-on, the [GrammarMiner Anki Add-on](🔗_INSERT_LINK_HERE), and [Grammar Anki](🔗_INSERT_LINK_HERE).*
 
+#### Preview and Connection to Base Grammar Notes
+
+https://github.com/user-attachments/assets/0e4ca214-63b5-4fa3-8457-0beb05aa9284
+
+#### Field Recycling
 By default, these cards use the **Term Card** layout, and their Pronunciation Sibling is automatically suspended.
 
 * **Note ID:** Derived from the `nid` of the overlaying grammar card from the grammar deck, featuring an additional suffix key identifying the grammar-sentence connection. Used for technical operations by the GrammarMiner add-on.
