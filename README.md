@@ -39,7 +39,10 @@ Once you filter out the most important notes, you will notice that **two cards e
   > **Use Case:** A kana-only expression, or a common verb that has a lot of different meanings depending on the context.
 
 * **Keep Both Cards if:** 
-  You want to learn both the pronunciation and the term. In this case, do not suspend anything. Select all card pairs (notes) and activate the [SiblingSync Add-on](🔗_INSERT_LINK_HERE). This add-on provides a visual cue during review to show the card's status:
+  You want to learn both the pronunciation and the term. In this case, do not suspend anything.
+
+* **After you suspended the cards:** 
+  Select all card pairs (notes) and activate the [SiblingSync Add-on](🔗_INSERT_LINK_HERE). This add-on provides a visual cue during review to show the card's status:
   * **Pure Term Card** (no pronunciation sibling): A **white square** appears on the top right.
   * **Pure Pronunciation Card** (no term sibling): A **black square** appears on the top right.
 
