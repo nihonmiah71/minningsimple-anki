@@ -197,7 +197,7 @@ There are two distinct ways you can approach your reviews:
 ### 1. Bulk Review (Recommended)
 In this mode, you do not actually perform the review directly inside Anki. Instead, you follow the [ankitolightnovel](🔗_INSERT_LINK_HERE) or the [ankitoanime](🔗_INSERT_LINK_HERE) workflow:
 
-1. Watch, hear, or review the specific chapter or episode.
+1. Watch, hear, read the specific chapter or episode again (audiovisual reviewing as described in the workflows linked above).
 2. Select all cards related to this chapter/episode.
 3. Tag them with a tracking tag (for example, `"review1"`) to indicate they have been reviewed once.
 4. **Do not** bulk-grade them using an add-on. You want to add cards to your Anki schedule **very selectively**—only where you think long-term review is beneficial.
