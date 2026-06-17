@@ -214,9 +214,11 @@ In this mode, you choose to handle the reviewing process long-term within Anki.
 
 ## Step-by-Step Review Rules
 
-Once you filter out the most important notes, you will notice that **two cards exist per note**:
+Once you filter out the most important notes **(initial filtering)**, you will notice that **two cards exist per note**:
 1. **The Term Card:** Features a black background. It is designed to test the **MEANING** of the expression.
 2. **The Pronunciation Card:** Features a white background. It is designed to test the **PRONUNCIATION** of the mined expression.
+
+I recommend to decide whether you want to have the word you mined as a pure term card, a pure pronounciation card or a hybrid card, to review the cards after your initial filtering once individualy and then suspend the pronounciation i.e. term part as needed (second filtering).
 
 ### Card Suspension Logic
 
@@ -231,7 +233,7 @@ Once you filter out the most important notes, you will notice that **two cards e
 * **Keep Both Cards if:** 
   You want to learn both the pronunciation and the term. In this case, do not suspend anything.
   
-* **After suspending/filtering:** 
+* **After suspending (second filtering):** 
   Select all card pairs (notes) and activate the [SiblingSync Add-on](🔗_INSERT_LINK_HERE). This add-on provides a visual cue during review to show the card's status:
   * **Pure Term Card** (no pronunciation sibling): A **white square** appears on the top right.
   * **Pure Pronunciation Card** (no term sibling): A **black square** appears on the top right.
