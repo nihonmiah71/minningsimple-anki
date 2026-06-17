@@ -16,7 +16,7 @@ In this review mode you chose to do the reviewing on anki and longterm. If you h
 
 The rules i.e. steps for reviewing
 
-After you have filtered out the most important notes you have noticed that per note two cards exist. On the one hand the term card (black background), and on the other hand the pronounciation card (white background).
+After you have filtered out the most important notes (initial filtering) you have noticed that per note two cards exist. On the one hand the term card (black background), and on the other hand the pronounciation card (white background). I recommend to decide whether you want to have the word you mined as a pure term card, a pure pronounciation card or a hybrid card, to review the card after your initial filtering once individualy and then suspend the pronounciation i.e. term part as needed (second filtering).
 
 The term card is designed to test the MEANING of the expression, respectively the pronounciation card is designed to test the PRONOUNCIATION of the expression you mined.
 
